@@ -26,6 +26,7 @@ header{
 #theme{
     text-align: center;
     font-weight: 400;
+    margin: auto;
 }
 
 header > p{
@@ -33,10 +34,12 @@ header > p{
     text-align: center;
     width: 500px;
     height: 90px;
+    margin: auto;
 }
 
 nav{
     width: 500px;
+    margin: auto;
 }
 
 nav > a{
