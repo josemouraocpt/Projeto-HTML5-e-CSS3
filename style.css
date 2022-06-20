@@ -32,13 +32,13 @@ header{
 header > p{
     margin: auto;
     text-align: center;
-    width: 500px;
+    max-width: 500px;
     height: 90px;
     margin: auto;
 }
 
 nav{
-    width: 500px;
+    max-width: 500px;
     margin: auto;
 }
 
